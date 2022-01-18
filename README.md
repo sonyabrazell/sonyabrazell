@@ -1,4 +1,5 @@
- Hi! 👋 I'm [Sonya](https://www.notion.so/sonyabrazell/sonya-brazell-9525abc3a7b94ea48699afa6eb019591)(she/her).
+[![Header](https://i.pinimg.com/originals/74/e5/92/74e5929362005a7268d8addff51f1510.gif)]
+## Hi! 👋 I'm [Sonya](https://www.notion.so/sonyabrazell/sonya-brazell-9525abc3a7b94ea48699afa6eb019591)(she/her).
 
 #### I’m a developer, entrepreneur, and designer based in Austin, TX.
 
