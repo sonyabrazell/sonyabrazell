@@ -1,4 +1,4 @@
-## Hi there I'm [Sonya](https://www.notion.so/sonyabrazell/sonya-brazell-9525abc3a7b94ea48699afa6eb019591)(she/her) 👋
+# Hi there I'm [Sonya](https://www.notion.so/sonyabrazell/sonya-brazell-9525abc3a7b94ea48699afa6eb019591)(she/her) 👋
 
 I’m a developer, entrepreneur, and designer based in Austin, TX.
 
@@ -7,8 +7,8 @@ I’m a developer, entrepreneur, and designer based in Austin, TX.
 ### Connect with me:
 <a href="https://www.linkedin.com/in/sonyabrazell"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sonya Brazell | LinkedIn"/></a>
 <a href="https://instagram.com/cozy.codes"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Sonya Brazell | Instagram"/></a>
-
-# I would love to connect! Please don't hesitate to reach out. 🤎
+<br/>
+I would love to connect! Please don't hesitate to reach out. 🤎
 
 ### 👩‍💻 I’m currently working on continuing my capstone project and expanding on my skills from my bootcamp.
 
@@ -28,4 +28,3 @@ I’m a developer, entrepreneur, and designer based in Austin, TX.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonyabrazell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${sonyabrazell}.{sonyabrazell})
