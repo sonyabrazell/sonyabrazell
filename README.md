@@ -1,6 +1,6 @@
-# Hi there I'm [Sonya](https://www.notion.so/sonyabrazell/sonya-brazell-9525abc3a7b94ea48699afa6eb019591)(she/her) 👋
+## Hi there! 👋
 
-#### I’m a developer, entrepreneur, and designer based in Austin, TX.
+## I'm [Sonya](https://www.notion.so/sonyabrazell/sonya-brazell-9525abc3a7b94ea48699afa6eb019591)(she/her). I’m a developer, entrepreneur, and designer based in Austin, TX.
 
 #### Beautiful functionality is my happy place. I thrive in order and color, and I adore being able to play in the intersection between technical and visual.</h3>
 
