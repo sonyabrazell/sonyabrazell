@@ -1,4 +1,6 @@
-### Hi there I'm [Sonya](https://www.notion.so/sonyabrazell/sonya-brazell-9525abc3a7b94ea48699afa6eb019591)(she/her) 👋 and I’m a developer, entrepreneur, and designer based in Austin, TX.
+### Hi there I'm [Sonya](https://www.notion.so/sonyabrazell/sonya-brazell-9525abc3a7b94ea48699afa6eb019591)(she/her) 👋
+
+I’m a developer, entrepreneur, and designer based in Austin, TX.
 
 <h3>Beautiful functionality is my happy place. I thrive in order and color, and I adore being able to play in the intersection between technical and visual.</h3>
 
@@ -24,6 +26,6 @@ I would love to connect! Please don't hesitate to reach out. 🤎
 ![](https://img.shields.io/badge/CSS-BE6E02?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-83854f?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonyabrazell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${sonyabrazell}.{sonyabrazell})
