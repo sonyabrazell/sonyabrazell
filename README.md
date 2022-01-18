@@ -1,4 +1,4 @@
-[![Header](https://i.pinimg.com/originals/74/e5/92/74e5929362005a7268d8addff51f1510.gif)]
+![Header](https://i.pinimg.com/originals/74/e5/92/74e5929362005a7268d8addff51f1510.gif)
 ## Hi! 👋 I'm [Sonya](https://www.notion.so/sonyabrazell/sonya-brazell-9525abc3a7b94ea48699afa6eb019591)(she/her).
 
 #### I’m a developer, entrepreneur, and designer based in Austin, TX.
@@ -16,6 +16,8 @@
 #### 🌱 I’m currently learning data structures and algorithms via <a href="https://zerotomastery.io/">ZTM</a> on udemy.
   
 #### 👯 I’m looking to collaborate on mobile or web applications.
+
+#### 🔥 I have a BS in Marketing from Colorado State University and Certificate in Full Stack Software Development from DevCodeCamp. 
 
 ### Technical Skills:
 ![](https://img.shields.io/badge/JavaScript-DD98C1?style=for-the-badge&logo=javascript&logoColor=white)
